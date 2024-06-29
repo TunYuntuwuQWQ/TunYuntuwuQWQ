@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 ❤️ **Welcome to connect with me** ❤️  
-💬 Feel free to reach out at tunyuntuwuqwq@gmail.com 💬  
+💬 Feel free to reach out at tunyuntuwu__@outlook.com 💬  
 🤔 I'm still a beginner, so I appreciate any suggestions you may have 🤔  
 <hr style="border: none; border-top: 1px solid #ffc0cb;">
 
