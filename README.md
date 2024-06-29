@@ -1,6 +1,6 @@
 ## Hi there 👋  
   
-❤️ Welcome to connect with me ❤️  
+❤️ **Welcome to connect with me** ❤️  
 💬 Feel free to reach out at tunyuntuwuqwq@gmail.com 💬  
 🤔 I'm still a beginner, so I appreciate any suggestions you may have 🤔  
 <!--
