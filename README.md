@@ -4,7 +4,7 @@
 💬 Feel free to reach out at tunyuntuwuqwq@gmail.com 💬  
 🤔 I'm still a beginner, so I appreciate any suggestions you may have 🤔  
 ---  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunYuntuwuQWQ)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TunYuntuwuQWQ&layout=compact&theme=druvbox&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunYuntuwuQWQ)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TunYuntuwuQWQ&layout=compact&theme=gruvbox&show_icons=true)
 
 <!--
 **TunYuntuwuQWQ/TunYuntuwuQWQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
