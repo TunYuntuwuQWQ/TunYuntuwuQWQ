@@ -3,6 +3,7 @@
 ❤️ **Welcome to connect with me** ❤️  
 💬 Feel free to reach out at TunYuntuwu__@outlook.com 💬  
 🤔 I'm still a beginner, so I appreciate any suggestions you may have 🤔  
+☕ [Buy me a coffee](https://afdian.com/a/TunYuntuwuQWQ) ☕  
 <hr style="border: none; border-top: 1px solid #ffc0cb;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunYuntuwuQWQ&show_icons=true&theme=jolly&count_private=true&rank_icon=github)
